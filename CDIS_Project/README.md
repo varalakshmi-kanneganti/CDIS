@@ -1,4 +1,17 @@
 # Cloud-Based Document Verification and Approval System
+## 👥 Team Members
+
+| Name | Roll Number |
+|---|---|
+| Varalakshmi Kanneganti | 2520030578 |
+| Muvva Lohitha | 2520030378 |
+| Apoorva | 2520030078 |
+
+## 🎓 Project Guide
+
+**Mr. Vinay Kumar**  
+Department of Computer Science and Engineering (CSE)
+
 
 ## 📌 Project Overview
 
